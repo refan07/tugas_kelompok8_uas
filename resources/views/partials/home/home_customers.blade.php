@@ -34,7 +34,7 @@
 
         <div class="col-lg-7 col-md-6">
           <div class="about-content" data-aos="fade-left" data-aos-delay="100">
-            <h2>About Laracoffee</h2>
+            <h2>About SunsCoffee</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas, quae saepe alias dicta illum eveniet qui
               fugiat laborum, molestiae nesciunt placeat aliquam voluptate ratione minus nemo quos consectetur harum id
               quibusdam cumque odit at, est velit? Neque totam voluptate possimus eum tempore, dolorum odio itaque
@@ -58,7 +58,7 @@
           <div class="icon-box icon-box-pink">
             <div class="icon"><i class="fa fa-fw fa-dumpster"
                 style="font-size: 48px;margin-bottom: 15px;line-height: 1;color:orange;"></i></div>
-            <h4 class="title"><a href="">Why Laracoffee?</a></h4>
+            <h4 class="title"><a href="">Why Suns Coffee?</a></h4>
             <p class="description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde natus nesciunt
               exercitationem, libero odit quia consequuntur ullam nostrum ducimus, fugit aspernatur error, placeat
               voluptatibus incidunt modi eligendi culpa dolor nihil.</p>

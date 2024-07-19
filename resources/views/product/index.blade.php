@@ -53,8 +53,8 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">{{ $row->product_name }}</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        Doloremque nam voluptas distinctio facere assumenda delectus.</p>
+                                    <p class="card-text">Rasa yang Kuat dan Pahit: Kopi Robusta memiliki rasa yang lebih berani dan tajam dibandingkan dengan kopi Arabika. Rasanya sering digambarkan sebagai earthy, nutty, dan chocolatey1.
+Kandungan Kafein yang Tinggi: Kopi Robusta memiliki kandungan kafein yang lebih tinggi daripada kopi Arabika. Ini memberikan efek stimulan yang lebih kuat bagi yang mengonsumsinya</p>
 
                                     <!-- detail -->
                                     <button data-id="{{ $row->id }}"

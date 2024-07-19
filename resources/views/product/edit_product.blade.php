@@ -27,11 +27,11 @@
               <div class="e-profile">
                 <div class="row">
                   <div class="col-12 col-sm-auto mb-3">
-                    <img class="mb-2" id="image-preview" src="{{ asset('storage/' . $product->image) }}" width="200"
+                    <img class="mb-2" id="image-preview" src="robusta-coffee-beans-jan092019-min.JPG"{{ asset('storage/' . $product->image) }}" width="200"
                       alt="{{ $product->product_name }}">
                   </div>
                   <div class="col d-flex flex-column flex-sm-row justify-content-between mb-3">
-                    <div class="text-sm-left mb-2 mb-sm-0">
+                    <div c`ss="text-sm-left mb-2 mb-sm-0">
                       <h4 class="pt-sm-2 pb-1 mb-0 text-nowrap">
                         {{ $product->product_name }}
                       </h4>
